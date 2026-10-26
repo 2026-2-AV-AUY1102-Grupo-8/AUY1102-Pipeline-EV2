@@ -45,7 +45,8 @@ Panel de seguridad nativo en GitHub (`/security`) mostrando el monitoreo continu
 ---
 
 ### 6. Trabajo Colaborativo y Pull Requests en Git
-Trazabilidad de ramas temáticas y Pull Requests entre **Jose Villarroel** (`feature/unit-tests-report`) y **Fernando Galdamez** (`fix/security-remediations`) para la integración continua en `master`.
+Trazabilidad de ramas temáticas y Pull Requests entre **Jose Villarroel** (Joseantonio777) y **Fernando Galdamez** (ergaldamez-commits), demostrando la integración colaborativa y continua hacia master:
+![Pull Requests en GitHub](./img/06_pull_requests.png)
 
 ---
 

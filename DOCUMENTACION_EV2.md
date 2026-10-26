@@ -178,7 +178,18 @@ Para asegurar la trazabilidad del trabajo en pareja de **Fernando Galdamez** y *
    - Responsable: Fernando Galdamez ([@fergaldamez-commits](https://github.com/fergaldamez-commits))
    - Aportes: Remediación de SQL Injection y variables de entorno en `insecure-2-object.ts`, eliminación segura de `credentials.yml` y actualización de `.gitignore`.
 
-*(Espacio reservado para el Pantallazo 6: Listado de Pull Requests en GitHub evidenciando la integración colaborativa de ambos compañeros).*
+3. **Rama de Documentación e Informe de Evaluación:**
+   - Rama: docs/evaluation-report $\\rightarrow$ master
+   - Responsable: Jose Villarroel ([@Joseantonio777](https://github.com/Joseantonio777))
+   - Aportes: Elaboración del informe técnico DOCUMENTACION_EV2.md, galería de evidencias en README.md y consolidación de métricas.
+
+Evidencia real del panel de Pull Requests en GitHub:
+![Pantallazo 6: Pull Requests de Fernando Galdamez y Jose Villarroel](./img/06_pull_requests.png)
+
+Como se visualiza en la evidencia:
+- **PR #10:** Creado por **Jose Villarroel** (Joseantonio777) para la documentación e informe final.
+- **PR #9:** Creado por **Fernando Galdamez** (ergaldamez-commits) para la remediación de vulnerabilidades de seguridad.
+- **PRs automáticos de Dependabot:** Generados por las alertas de seguridad automatizadas de GitHub Advanced Security.
 
 ---
 
